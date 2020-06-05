@@ -1,0 +1,14 @@
+Source: xenta-xa-theme
+Section: gnome
+Priority: optional
+Maintainer: Dindin Hernawan (Xenta OS Linux) <dindin_hernawan@yahoo.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.7
+Homepage: https://github.com/xentaoslinux/xenta-xa-theme
+Vcs-Browser: https://github.com/xentaoslinux/xenta-xa-theme.git
+
+Package: xenta-xa-theme
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Paket Theme Xenta X untuk Xenta OS Anniversary.
+ Paket secara bawaan berupa GTK, Windows Sistem dan xfwm Theme.

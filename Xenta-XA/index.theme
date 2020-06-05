@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Xenta-XA
+Comment=Xenta XA Theme Xenta Anniversary
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Xenta-XA
+MetacityTheme=Xenta-XA
+IconTheme=Xenta-X
+CursorTheme=DMZ-White
+ButtonLayout=menu:minimize,maximize,close

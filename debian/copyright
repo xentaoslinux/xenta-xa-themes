@@ -1,0 +1,62 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: xenta-xa-theme
+Upstream-Contact: Dindin Hernawan <dindin_hernawan@yahoo.com>
+Source: https://github.com/xentaoslinux/xenta-xa-theme
+
+Files: usr/share/themes/Xenta-XA/xfwm4/*
+       usr/share/themes/Xenta-XA/metacity-1/*
+Copyright: 2017-2020, Dindin Hernawan
+           2015-2017, B00merang Project
+License: proprietary
+ The are licensed under proprietary license, 
+ due in part to the similitude with copyrighted material from Microsoft
+ All trademarked names are only used as references and we do not intend 
+ to violate or take ownership of these products
+ WARNING! All themes are distributed without any warranty that 
+ they will work! Any inconveniences that may be caused are accidental, 
+ and we are not liable for them.
+ .
+ Read More http://b00merang.weebly.com/compatibility--licensing.html
+
+Files: usr/share/themes/Xenta-XA/cinnamon/*
+       usr/share/themes/Xenta-XA/gtk-2.0/*
+       usr/share/themes/Xenta-XA/gtk-3.0/*
+       usr/share/themes/Xenta-XA/xfce-notify-4.0/*
+       usr/share/themes/Xenta-XA/index.theme
+Copyright: 2017-2020, Dindin Hernawan
+License: GPL-3+
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ .
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this program. If not, see <http://www.gnu.org/licenses/>.
+ .
+ On Debian systems, the complete text of the GNU General
+ Public License version 3 can be found in "/usr/share/common-licenses/GPL-3".
+
+Files: debian/*
+Copyright: 2017-2020, Dindin Hernawan
+License: GPL-3+
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ .
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this program. If not, see <http://www.gnu.org/licenses/>.
+ .
+ On Debian systems, the complete text of the GNU General
+ Public License version 3 can be found in "/usr/share/common-licenses/GPL-3".
+
