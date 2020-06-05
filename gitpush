@@ -12,8 +12,8 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>
 
-package=xenta-xa-theme
-version="xenta-xa-theme (3.3.1+xentaos3)"
+package=xenta-xa-themes
+version="xenta-xa-themes (3.3.1+xentaos3)"
 figlet $package
 echo " Set Remote... "
 git remote set-url origin git@github.com:xentaoslinux/$package.git
